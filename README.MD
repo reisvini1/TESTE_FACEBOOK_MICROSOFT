@@ -1,3 +1,6 @@
+Problema:
+Transformar números romanos em números padrões
+
 Lógica para resolver
 
 - Loop em cada letra
